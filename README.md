@@ -10,3 +10,6 @@ build a single-linked list with the use of templates while handling memory manag
 - accept various types including ints, doubles, strings, etc
 - C++ STL classes
 - run and pass ValGrind
+
+youtube help from TAs:
+https://www.youtube.com/watch?v=zRdZaBSqjEM
